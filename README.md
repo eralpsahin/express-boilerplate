@@ -1,6 +1,6 @@
 # express-boilerplate
 
-> Node.js - Express - Jest - ESLint - Nodemon Boilerplate
+> Node.js - Express - Redis - Jest - ESLint - Nodemon Boilerplate
 
 ## Getting Started
 
